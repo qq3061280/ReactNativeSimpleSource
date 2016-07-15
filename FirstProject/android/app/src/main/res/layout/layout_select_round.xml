@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.joooonho.SelectableRoundedImageView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/img_Item"
+    android:layout_width="wrap_content"
+    android:layout_height="match_parent"
+    android:scaleType="fitXY"
+    android:layout_marginLeft="4dp"
+    android:layout_marginRight="4dp"
+    app:sriv_left_top_corner_radius="10dip"
+    app:sriv_right_top_corner_radius="10dip"
+    app:sriv_left_bottom_corner_radius="10dip"
+    app:sriv_right_bottom_corner_radius="10dip" />

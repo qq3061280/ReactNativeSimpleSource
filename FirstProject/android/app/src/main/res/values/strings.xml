@@ -1,0 +1,18 @@
+<resources>
+    <string moduleConfig="true" name="reactNativeCodePush_androidDeploymentKey"></string>
+    <string name="app_name">FirstProject</string>
+
+    <string name="ptr_pull_to_refresh">下拉刷新</string>
+
+    <string name="ptr_release_to_refresh">松开刷新</string>
+
+    <string name="ptr_refreshing">刷新中...</string>
+
+    <string name="ptr_refresh_complete">刷新完成</string>
+
+    <string name="ptr_refresh_failure">刷新失败</string>
+
+    <string name="ptr_update_time">最后更新:</string>
+
+    <string name="ptr_today_time">今天 %s</string>
+</resources>

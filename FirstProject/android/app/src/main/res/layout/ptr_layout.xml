@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.firstproject.ptr.PtrFrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:id="@+id/ptr"
+    android:layout_height="match_parent">
+
+    <com.firstproject.ptr.PluPtrHeaderView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+    </com.firstproject.ptr.PluPtrHeaderView>
+
+
+</com.firstproject.ptr.PtrFrameLayout>
